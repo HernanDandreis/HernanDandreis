@@ -1,4 +1,4 @@
-<h1 align="center">🌎 ¡Hola, Hello, Olá! Soy Aleph</h1>
+<h1 align="center">🌎 ¡Hola, Hello, Olá! Soy Hernan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=🧙%E2%80%8D%E2%99%82+Desarrollador+Full+Stack;🎲+Creador+de+Juegos+de+Rol;🐧+Fan+de+Fedora+y+el+terminal;📊+Analista+de+datos+y+grafiquero+serial" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Cambia de idioma | Change language | Mude o idioma  
-[🇪🇸 Español](#-hola-soy-aleph) | [🇺🇸 English](#-hi-there-im-aleph) | [🇧🇷-olá-eu-sou-o-aleph)
+[🇪🇸 Español](#-hola-soy-Hernan) | [🇺🇸 English](#-hi-there-im-Hernan) | [🇧🇷-olá-eu-sou-o-Hernan)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🇪🇸 ¡Hola! Soy Aleph
+## 🇪🇸 ¡Hola! Soy Hernan
 
 Soy un desarrollador full stack amante del caos creativo y los desafíos técnicos. Creo scripts para Fedora, diagramo bases de datos y diseño partidas de rol donde una mutación puede ser tan útil como estéticamente perturbadora 🧬.
 
@@ -58,7 +58,7 @@ Soy un desarrollador full stack amante del caos creativo y los desafíos técnic
 
 ---
 
-## 🇺🇸 Hi there! I'm Aleph
+## 🇺🇸 Hi there! I'm Hernan
 
 Full stack developer, RPG writer, terminal dweller. I build Laravel apps, design PostgreSQL schemas, and run one-shots where haunted USB drives might grant you fire powers 🔥🔌.
 
@@ -76,7 +76,7 @@ Full stack developer, RPG writer, terminal dweller. I build Laravel apps, design
 
 ---
 
-## 🇧🇷 Olá! Eu sou o Aleph
+## 🇧🇷 Olá! Eu sou o Hernan
 
 Sou um desenvolvedor full stack que ama códigos, dados e RPGs malucos. Gosto de escrever sistemas para jogos e automatizar até o preparo do café ☕ com shell script.
 
@@ -98,8 +98,8 @@ Sou um desenvolvedor full stack que ama códigos, dados e RPGs malucos. Gosto de
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleph&show_icons=true&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleph&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hernan&show_icons=true&theme=tokyonight&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hernan&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
 </div>
 
