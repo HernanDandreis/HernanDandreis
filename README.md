@@ -1,4 +1,4 @@
-<h1 align="center">🌎 ¡Hola, Hello, Olá! Soy Hernan</h1>
+<h1 align="center">🌎 ¡Hello world! Soy Hernan</h1>
 
   <ul list-style: none;>
     <li>🧙 Desarrollador Full Stack JR</li>
