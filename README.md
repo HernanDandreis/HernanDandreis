@@ -101,8 +101,8 @@ Sou um desenvolvedor full stack JR que ama códigos, dados e RPGs malucos. Gosto
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hernan&show_icons=true&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hernan&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HernanDandreis&show_icons=true&theme=tokyonight&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanDandreis&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
 </div>
 
