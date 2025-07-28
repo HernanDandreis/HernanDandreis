@@ -1,13 +1,11 @@
 <h1 align="center">🌎 ¡Hola, Hello, Olá! Soy Hernan</h1>
 
-<h2 align="center">
   <ul list-style: none;>
     <li>🧙 Desarrollador Full Stack JR</li>
     <li>🎲 Creador de Juegos de Rol</li>
     <li>🐧 Fan de Fedora y el terminal</li>
     <li>📶 Analista de datos y grafiquero serial</li>
   </ul>
-</h2>
 
 ---
 
