@@ -63,7 +63,7 @@ Soy un desarrollador full stack amante del caos creativo y los desafíos técnic
 
 ## 🇺🇸 Hi there! I'm Hernan
 
-Full stack developer, RPG writer, terminal dweller. I build Laravel apps, design PostgreSQL schemas, and run one-shots where haunted USB drives might grant you fire powers 🔥🔌.
+JR Full stack developer, RPG writer, terminal dweller. I build Laravel apps, design PostgreSQL schemas, and run one-shots where haunted USB drives might grant you fire powers 🔥🔌.
 
 ### 📌 What I do
 
@@ -81,7 +81,7 @@ Full stack developer, RPG writer, terminal dweller. I build Laravel apps, design
 
 ## 🇧🇷 Olá! Eu sou o Hernan
 
-Sou um desenvolvedor full stack que ama códigos, dados e RPGs malucos. Gosto de escrever sistemas para jogos e automatizar até o preparo do café ☕ com shell script.
+Sou um desenvolvedor full stack JR que ama códigos, dados e RPGs malucos. Gosto de escrever sistemas para jogos e automatizar até o preparo do café ☕ com shell script.
 
 ### 📌 O que eu faço
 
