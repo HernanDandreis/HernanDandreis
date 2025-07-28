@@ -109,7 +109,7 @@ Sou um desenvolvedor full stack que ama códigos, dados e RPGs malucos. Gosto de
 
 <p align="center">
   <a href="mailto:hdandreis@gmail.com"><img src="https://img.shields.io/badge/Gmail-hdandreis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/territoriozombiejdr/?hl=es-la" target="_blank"><img src="https://img.shields.io/badge/Instagram-@primigenia_austral-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/primigenia_austral/?hl=es-la" target="_blank"><img src="https://img.shields.io/badge/Instagram-@primigenia_austral-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
