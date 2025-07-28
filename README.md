@@ -1,8 +1,13 @@
 <h1 align="center">🌎 ¡Hola, Hello, Olá! Soy Hernan</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=🧙%E2%80%8D%E2%99%82+Desarrollador+Full+Stack;🎲+Creador+de+Juegos+de+Rol;🐧+Fan+de+Fedora+y+el+terminal" alt="Typing SVG" />
-</p>
+<h2 align="center">
+  <ul>
+    <li>🧙 Desarrollador Full Stack JR</li>
+    <li>🎲 Creador de Juegos de Rol</li>
+    <li>🐧 Fan de Fedora y el terminal</li>
+    <li>📶 Analista de datos y grafiquero serial</li>
+  </ul>
+</h2>
 
 ---
 
