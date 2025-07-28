@@ -1,7 +1,7 @@
 <h1 align="center">🌎 ¡Hola, Hello, Olá! Soy Hernan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=🧙%E2%80%8D%E2%99%82+Desarrollador+Full+Stack;🎲+Creador+de+Juegos+de+Rol;🐧+Fan+de+Fedora+y+el+terminal;📊+Analista+de+datos+y+grafiquero+serial" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=🧙%E2%80%8D%E2%99%82+Desarrollador+Full+Stack;🎲+Creador+de+Juegos+de+Rol;🐧+Fan+de+Fedora+y+el+terminal" alt="Typing SVG" />
 </p>
 
 ---
